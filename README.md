@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Marcos 👋
 
-<!--
-**Socrampucela/Socrampucela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior RPA & Web Developer from Valladolid, Spain.
 
-Here are some ideas to get you started:
+I have professional experience developing RPA solutions with UiPath
+and I'm currently expanding my skills in web and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+
+### RPA
+- UiPath
+- Automation
+- Excel
+- Outlook
+- UiPath Orchestrator 
+
+### Web
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+### Currently learning
+- Angular
+- Java
+- Python
+
+## 🚀 Featured Projects
+
+### F1 Telemetry
+Python application for visualizing F1 telemetry data
+and displaying the car position on a circuit map.
+
+### Job Portal - TFG
+PHP/MySQL web application for browsing and managing
+job offers by province and locality.
+
+## 💼 Experience
+
+- Junior RPA Developer — STEMDO
+- RPA Developer Intern — Atos
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/marcos-pouso-de-la-madrid-78731a346/)
+- Email: marcospouso6@gmail.com
