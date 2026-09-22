@@ -28,7 +28,7 @@ and I'm currently expanding my skills in web and software development.
 
 ## 🚀 Featured Projects
 
-### F1 Telemetry
+### f1-24-telemetry
 Python application for visualizing F1 telemetry data
 and displaying the car position on a circuit map.
 
